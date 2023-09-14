@@ -1,5 +1,5 @@
 
-BOARD_DIM = (8, 8)
+BOARD_DIM = (5, 6)
 START = (0, 0)
 
 def is_open(move_history, pos):
